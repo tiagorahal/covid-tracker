@@ -4,6 +4,7 @@ import {
   useRouteMatch,
 } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
+import Header from './heroarea';
 import getDetails from '../../redux/detailsslice';
 
 const Details = ({ name }) => {
