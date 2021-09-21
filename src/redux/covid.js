@@ -1,6 +1,6 @@
 import dayjs from 'dayjs';
 
-import { GET_COVID, GET_COVID_SUCCESS, GET_COVID_ERR } from './covidSlice';
+import { GET_COVID, GET_COVID_SUCCESS, GET_COVID_ERR } from './covidslices';
 
 const today = dayjs().subtract(2, 'day').format('YYYY-MM-DD');
 
