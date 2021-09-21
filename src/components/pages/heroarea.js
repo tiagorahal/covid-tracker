@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import BackButton from './backButton';
+import BackButton from './backbutton';
 
 const Header = ({ backButtonTitle, title }) => (
   <div className="header-container">
