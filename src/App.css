@@ -33,7 +33,7 @@ body {
 /* ----------- Header ------------ */
 
 .header-container {
-  background-image: url("./feature/components/images/world.png");
+  background-image: url("./components/images/world.png");
   background-position: center;
   background-size: cover;
   background-color: #ac3763;
