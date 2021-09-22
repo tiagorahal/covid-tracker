@@ -4,8 +4,8 @@
 
 > This is a mobile web app the provides daily updates on the global spread of covid-19. The data is sourced from the [Narrativa Data API](https://covid19tracking.narrativa.com/index_en.html). The project is build with React a JavaScript library, and Redux for state management. 
 
-![screenshot](./covidhome.png)
-![screenshot](./details.png)
+![screenshot](./screenshot1.png)
+![screenshot](./screenshot1.png)
 
 The app displays the global statistics on the spread of covid-19 for each country, number of confirmed cases and deaths. You click on a particular country to get detailed information about that country. 
 
@@ -19,11 +19,11 @@ The app displays the global statistics on the spread of covid-19 for each countr
 
 ## Video Presentation
 
-[Checkout my video presentation](---------------------)
+[Checkout my video presentation](https://www.loom.com/share/8571a7b61f7646ba83ea77e5ea9f9949)
 
 ## Live Demo
 
-[Checkout the live version](---------------)
+[Checkout the live version](https://laughing-hopper-2478f4.netlify.app/)
 
 
 ## Getting Started
