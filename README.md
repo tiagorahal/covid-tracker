@@ -23,7 +23,7 @@ The app displays the global statistics on the spread of covid-19 for each countr
 
 ## Live Demo
 
-[Checkout the live version](---------------)
+[Checkout the live version](https://laughing-hopper-2478f4.netlify.app/)
 
 
 ## Getting Started
