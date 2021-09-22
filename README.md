@@ -33,6 +33,7 @@ To get a local copy up and running follow these simple example steps.
 - Cd into 
 - Run npm install to install dependencies
 - Run npm start to run the app on the browser
+- Run npm test to run the tests.
 
 ### Prerequisites
 - Node v14.9.0
