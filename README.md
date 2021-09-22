@@ -4,8 +4,8 @@
 
 > This is a mobile web app the provides daily updates on the global spread of covid-19. The data is sourced from the [Narrativa Data API](https://covid19tracking.narrativa.com/index_en.html). The project is build with React a JavaScript library, and Redux for state management. 
 
-![screenshot](./covidhome.png)
-![screenshot](./details.png)
+![screenshot](./screenshot1.png)
+![screenshot](./screenshot1.png)
 
 The app displays the global statistics on the spread of covid-19 for each country, number of confirmed cases and deaths. You click on a particular country to get detailed information about that country. 
 
