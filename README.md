@@ -17,6 +17,7 @@ The app displays the global statistics on the spread of covid-19 for each countr
 - Ract
 - Redux
 
+
 ## Video Presentation
 
 [Checkout my video presentation](https://www.loom.com/share/8571a7b61f7646ba83ea77e5ea9f9949)
