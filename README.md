@@ -8,6 +8,7 @@
 
 ![screenshot](./screenshot1.png)
 
+
 The app displays the global statistics on the spread of covid-19 for each country, number of confirmed cases and deaths. You click on a particular country to get detailed information about that country. 
 
 ## Built With
